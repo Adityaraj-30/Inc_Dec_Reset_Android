@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab Exe 3</string>
+    <string name="lab_exe_2">Lab-Exe-2</string>
+    <string name="_0">0</string>
+    <string name="inc">Inc</string>
+    <string name="reset">Reset</string>
+    <string name="dec">Dec</string>
+</resources>
